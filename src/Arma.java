@@ -13,7 +13,7 @@ public abstract class Arma {
 
     }
 
-    public void imprime() {
+    public void imprime() { // mismo caso que cargar arma en la clase abstracta.
 
 
     }

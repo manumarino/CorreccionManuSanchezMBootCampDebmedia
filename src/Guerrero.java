@@ -14,7 +14,7 @@ public abstract class Guerrero {
 
     public double ataqueBasico() {
         return 0;
-    }
+    } // ESto es mejor mandarlo abstracto, asi no implementas nada acá
 
     public void imprime() {
     }
